@@ -105,6 +105,6 @@ aside img {
     }
 
     .aboutMe {
-        width: 50%;
+        max-width: 400px;
     }
 }
